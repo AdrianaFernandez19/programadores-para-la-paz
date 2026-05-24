@@ -1,0 +1,6 @@
+primer línea del archivo
+segunda linea del archivo
+tercera linea del archivo
+ primer linea del archi
+segunda del archi
+tercer linea del archi
