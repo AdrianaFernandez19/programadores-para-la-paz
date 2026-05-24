@@ -1,0 +1,16 @@
+pregunta_1: 
+Respuesta:b
+
+Pregunta_2:
+Respuesta: b
+
+Pregunta_3:
+Respuesta: c
+
+Pregunta_4:
+Respuesta:b
+
+
+
+
+

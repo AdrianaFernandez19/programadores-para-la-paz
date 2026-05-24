@@ -1,0 +1,7 @@
+
+Como me encuentro aprendiendo a programar, al principio la terminal me parecía difícil porque no tiene botones. 
+Sin embargo, ahora entiendo que es una herramienta clave para cualquier desarrollador. 
+Me permite moverme por las carpetas y organizar mis proyectos de forma mucho más rápida usando solo el teclado. 
+Además, es indispensable para usar herramientas profesionales como Git y GitHub. 
+Saber usarla me ayuda a entender mejor cómo funciona mi computadora y dónde guardo mis archivos de código. 
+En resumen, la terminal me ahorra tiempo, mejora mi organización y es el primer paso para trabajar como una programadora profesional.

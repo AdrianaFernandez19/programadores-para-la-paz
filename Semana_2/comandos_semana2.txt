@@ -1,0 +1,13 @@
+cd curso_PPP
+mkdir semana2
+cd semana2
+touch preguntas_semana2.txt
+touch comandos_terminal.txt
+touch reflexion_semana2.txt
+nano preguntas_semana2.txt
+nano reflexion_semana2.txt
+nano comandos_semana2.txt
+
+git add .
+git commit -m "Actividad semana_2"
+git push
