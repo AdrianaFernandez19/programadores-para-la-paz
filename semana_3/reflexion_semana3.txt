@@ -1,0 +1,8 @@
+reflexion semana 3
+
+Considero que mantener un registro de cambios con Git es fundamental porque actúa como una máquina del tiempo para mis proyectos.
+ me permite experimentar con nuevas funciones sin el miedo de destruir el código que ya logré estabilizar. 
+Si un error grave llega a infiltrarse en mi sistema, puedo identificar el origen exacto del fallo y revertir el proyecto a un estado seguro en segundos. 
+Además, entiendo que este registro es la columna vertebral del trabajo colaborativo cuando me toca integrarme a un equipo. 
+Nos facilita modificar los mismos archivos simultáneamente sin borrar el avance de los demás.
+ Al final, Git me ayuda a transformar el caos de las carpetas duplicadas en un proceso transparente, organizado y seguro que mejora mi productividad.
