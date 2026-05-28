@@ -1,0 +1,6 @@
+reflexion Semana_4 
+
+creo que es súper importante porque nos da autonomía y libertad. El uso de tecnologías abiertas como Node.js nos permite crear soluciones reales para nuestras comunidades sin tener que pagar licencias carísimas a empresas privadas.
+Además, como es una herramienta tan popular, hay muchísima información gratis en internet, lo que hace que aprender desde cero no sea tan intimidante y nos permite democratizar el conocimiento.
+Esto también garantiza la transparencia y protege la privacidad de los datos de nuestra gente, ya que nosotros mismos controlamos el sistema.
+Al final del día, crear nuestras propias herramientas nos demuestra que la tecnología no es solo para ingenieros, sino un bien común que podemos usar para transformar el entorno y mejorar la educación o la participación desde el territorio.
