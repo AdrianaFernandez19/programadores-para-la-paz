@@ -1,0 +1,7 @@
+reflexion 
+
+Las APIs ayudan a que las comunidades se organicen mejor porque funcionan como puentes que conectan diferentes aplicaciones y centralizan todo en un solo lugar. 
+En vez de mandar reportes o alertas por chats informales donde la información se pierde, una API permite crear un sistema único para recibir incidencias. 
+Por ejemplo, cuando un vecino reporta un bache o una luminaria rota desde su celular, la API toma ese mensaje y lo manda directo al sistema de los administradores de forma automática. 
+Esto permite clasificar los problemas por prioridad o por zonas de manera inmediata, evitando el desorden y acelerando las soluciones.
+ Además, como el proceso es automatizado, todos pueden saber si el reporte ya fue atendido, lo que da más claridad, reduce los chismes y hace que la gente participe con más confianza al ver que sus alertas sí funcionan.
