@@ -1,0 +1,20 @@
+Ejemplo de JSON para reportar una incidencia ciudadana
+URL: http://localhost:3000/incidencia
+
+JSON enviado:
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+Respuesta del servidor (200 OK):
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+El servidor procesó correctamente la incidencia enviada por el ciudadano.
+Los datos fueron recibidos a través de req.body y devueltos confirmando
+el registro. Esto simula cómo una plataforma comunitaria puede recibir
+reportes estructurados desde cualquier cliente o aplicación.

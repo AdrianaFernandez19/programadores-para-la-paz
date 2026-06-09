@@ -1,0 +1,20 @@
+Reflexión - Semana 6
+
+Que las plataformas tecnológicas puedan recibir información enviada por
+los ciudadanos de forma estructurada es fundamental para mejorar la
+gestión pública y la calidad de vida en las comunidades. Cuando los
+datos llegan organizados, como en formato JSON, es mucho más fácil para
+los sistemas procesarlos, almacenarlos y analizarlos de manera eficiente.
+
+Esto permite que los gobiernos y organizaciones respondan más rápido a
+los problemas reportados, como daños en la infraestructura, fallas en
+los servicios públicos o situaciones de riesgo. Además, al estructurar
+la información, se reduce la posibilidad de errores o malentendidos al
+momento de interpretar los reportes ciudadanos.
+
+Desde el punto de vista técnico, aprender a construir rutas POST con
+Express y manejar req.body me permitió entender cómo funciona realmente
+la comunicación entre un cliente y un servidor. Esta semana comprendí
+que tecnologías como Node.js y Express son herramientas poderosas para
+construir soluciones que conecten a las personas con los servicios que
+necesitan de forma ágil y confiable.
