@@ -1,0 +1,20 @@
+Prueba de la ruta POST /registro
+URL: http://localhost:3000/registro
+
+JSON enviado:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Respuesta del servidor (200 OK):
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor recibió correctamente los datos enviados en formato JSON
+mediante req.body y los devolvió en la respuesta confirmando el estado
+"Datos recibidos". Esto demuestra que express.json() está configurado
+correctamente y que la ruta POST /registro funciona sin errores.

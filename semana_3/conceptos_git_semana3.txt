@@ -1,8 +1,8 @@
 
 Repositorio
 Es el espacio virtual o carpeta donde Git almacena y organiza todos los archivos del proyecto.
-Guarda el historial completo de los cambios realizados, permitiéndo regresar a versiones anteriores en cualquier momento.
-Puede estar guardado de forma local en tu computadora o de forma remota en servidores de internet.
+nos guarda el historial completo de los cambios que realizamos, permitiéndonos regresar a versiones anteriores en cualquier momento.
+Puede estar guardado de forma local en mi computadora o de forma remota en servidores de internet.
 
 
 Commit
