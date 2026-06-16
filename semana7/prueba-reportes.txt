@@ -1,0 +1,26 @@
+Prueba de la ruta POST /reportes:
+Al enviar un reporte con el método POST a http://localhost:3000/reportes, el servidor recibió los datos (tipo y descripcion), creó un nuevo objeto con un id automático y lo guardó en el array "reportes". 
+El servidor respondió con el mensaje "Reporte registrado" junto con los datos del reporte creado.
+
+Ejemplo de respuesta al hacer POST:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+Prueba de la ruta GET /reportes:
+Al consultar http://localhost:3000/reportes con el método GET, el servidor respondió con un array que contiene todos los reportes registrados hasta ese momento, mostrando el id, tipo y descripción de cada uno.
+
+Ejemplo de respuesta al hacer GET:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
