@@ -1,3 +1,6 @@
-Proteger contraseñas.
-No compartir credenciales.
-Mantener software actualizado.
+prácticas básicas de seguridad digital.
+
+- Proteger contraseñas.
+-No compartir credenciales.
+-Mantener software actualizado.
+

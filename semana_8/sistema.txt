@@ -1,0 +1,11 @@
+
+
+El comando "uname -a" muestra información del sistema y del entorno de ejecución.
+En mi caso mostró: MINGW64_NT-10.0-26200 MIME, lo cual indica que estoy usando Git Bash sobre Windows 10, con arquitectura x86_64. 
+También muestra la versión del kernel simulado (3.6.7) y la fecha de compilación.
+
+El comando "whoami" muestra el nombre del usuario activo en la terminal.
+En mi caso mostró: mime2, que es el usuario con el que estoy trabajando en este equipo.
+
+Conocer esta información es útil al administrar un servidor porque permite identificar el sistema operativo, la arquitectura del procesador y el usuario activo.
+Esto es importante para saber qué software se puede instalar, qué permisos tiene el usuario y cómo está configurado el entorno donde corre la aplicación.

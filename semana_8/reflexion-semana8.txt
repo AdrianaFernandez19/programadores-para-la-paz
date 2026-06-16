@@ -1,0 +1,9 @@
+Reflexion
+
+La seguridad digital es fundamental para proteger plataformas tecnológicas que usan comunidades o procesos participativos, ya que estas plataformas manejan información sensible de los ciudadanos, como datos personales, reportes o denuncias.
+
+Si una plataforma no cuenta con medidas básicas de seguridad, esta información podría ser expuesta, alterada o utilizada de forma indebida, lo cual afectaría la confianza de la comunidad en el sistema.
+
+Proteger credenciales, usar contraseñas fuertes y limitar el acceso a datos sensibles ayuda a evitar accesos no autorizados y posibles ataques informáticos.
+
+Además, una plataforma segura garantiza que los procesos participativos sean confiables y transparentes, fortaleciendo la relación entre la comunidad y quienes administran dichas plataformas.
