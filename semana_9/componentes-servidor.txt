@@ -1,0 +1,24 @@
+Sistema operativo:
+Es el software base que administra el hardware del computador y
+permite que otros programas se ejecuten. En este caso usamos Windows
+con Git Bash para simular un entorno tipo Linux.
+
+Node.js:
+Es el entorno de ejecución que permite correr JavaScript fuera del
+navegador, directamente en el servidor. Gracias a Node.js podemos
+crear y ejecutar el archivo server.js.
+
+Aplicación server.js:
+Es el archivo principal de la aplicación. Contiene las rutas y la
+lógica del servidor. Define qué responder cuando alguien visita
+una URL específica.
+
+Puerto:
+Es el canal de comunicación por donde el servidor escucha las
+solicitudes. En esta práctica usamos el puerto 3000, lo que
+significa que el servidor atiende en http://localhost:3000.
+
+Logs:
+Son registros que documentan la actividad del servidor, como
+mensajes de inicio, errores o solicitudes recibidas. Ayudan a
+monitorear el estado del servidor y detectar problemas.
