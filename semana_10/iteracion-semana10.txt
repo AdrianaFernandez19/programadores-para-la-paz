@@ -1,0 +1,16 @@
+Tareas que haría primero:
+
+1. Registrar una incidencia (historia de usuario 1).
+2. Consultar los reportes registrados (historia de usuario 3).
+
+¿Por qué son las más importantes?
+Porque sin la capacidad de registrar y consultar reportes, la
+plataforma no tiene ninguna utilidad. Son las funciones base sobre
+las que se construye todo lo demás.
+
+Definición de terminado:
+Una tarea se considera terminada cuando cumple estos criterios:
+- Funciona correctamente y responde como se espera.
+- Fue probada con al menos un caso real usando GET o POST.
+- Quedó registrada en Git con un commit descriptivo.
+- No genera errores visibles en la terminal ni en el navegador.
