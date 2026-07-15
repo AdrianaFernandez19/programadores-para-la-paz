@@ -1,0 +1,21 @@
+Durante el curso aprendí que la tecnología puede ser una herramienta
+poderosa para fortalecer la participación ciudadana cuando se diseña
+con un propósito social claro y responsable.
+
+Comprendí cómo funcionan los servidores, las APIs, las bases de datos
+y la autenticación de usuarios, y cómo estos componentes se conectan
+para construir plataformas que permitan a las comunidades registrar
+causas, documentar apoyos y generar peticiones formales.
+
+También aprendí la importancia de la seguridad digital, no solo como
+un requisito técnico sino como una responsabilidad ética, ya que las
+plataformas comunitarias manejan información de personas reales que
+confían en que sus datos serán protegidos.
+
+El uso de herramientas como Git, Node.js, Express y n8n me mostró
+que con conocimientos básicos es posible construir soluciones con
+impacto real en la comunidad, y que organizar el trabajo con backlog
+e iteraciones hace el proceso más ordenado y efectivo.
+
+Este curso me enseñó que programar para la paz significa usar la
+tecnología al servicio de las personas y de la democracia.

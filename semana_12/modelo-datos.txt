@@ -1,0 +1,26 @@
+Entidad: Causa
+
+Campos:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Almacenar las causas comunitarias creadas por los ciudadanos.
+Es la entidad principal del sistema y contiene la información
+que será visible para todos los usuarios de la plataforma.
+
+
+Entidad: Apoyo
+
+Campos:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Registrar cada apoyo recibido por una causa. El campo causa_id
+relaciona cada apoyo con su causa correspondiente, permitiendo
+contar cuántas personas respaldan cada iniciativa.

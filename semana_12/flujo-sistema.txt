@@ -1,0 +1,21 @@
+Flujo del sistema "Petición en 3 Clics":
+
+1. Un ciudadano ingresa a la plataforma y crea una causa comunitaria
+   escribiendo el título, la descripción y la fecha.
+
+2. La causa queda registrada en la base de datos y aparece visible
+   en la lista de causas disponibles para todos los usuarios.
+
+3. Otros ciudadanos pueden ver la causa y hacer clic en el botón
+   de apoyo para registrar su respaldo a la iniciativa.
+
+4. El sistema cuenta automáticamente los apoyos recibidos y muestra
+   el total actualizado junto a cada causa.
+
+5. Cuando la causa alcanza un número significativo de apoyos, el
+   sistema genera automáticamente un documento PDF con el título,
+   la descripción, la fecha y el número de personas que la apoyaron.
+
+6. El documento PDF puede ser descargado y presentado ante las
+   autoridades correspondientes como evidencia formal de la
+   participación ciudadana.
